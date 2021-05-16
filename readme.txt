@@ -4,32 +4,43 @@ System: Android [target API: 30(Android 11.0); min API: 21(Lollipop 5.0)
 Original Release Date: July 25, 2019 by Jeremiah Moore 
 
 Landing Page: https://jeremiahdmoore.github.io/poker-hand-history-keyboard/index.html
+Privacy Policy: https://jeremiahdmoore.github.io/poker-hand-history-keyboard/privacy.html
 
-This keyboard is designed for live poker players to record hands at the table faster and more effectively, using shorthand. A useful tool for poker hand analysis. Write down your live hand history to study poker later. Simple to use shorthand keyboard will improve your hand recording skills and keep them consistent so you can study poker hand combinations and no limit poker situations later when you get home.
+♠️ The Original Poker Keyboard for Android! ⌨️
 
-This will help make your hand history recording much faster. Record poker hands accurately and efficiently for Texas holdem game theory analysis. Works with all apps that use traditional keyboard.
+This poker keyboard is designed for live poker players to record hands at the table to study poker, and win at poker! A useful tool for No Limit Texas Holdem hand analysis. Write down your live hand history for later review. 
+Developed and tested by professional poker players in Las Vegas. 
 
-Updated with Emoji Support and Less Cluttered UI, Thank You for the Feedback!
+New: Poker Emojis Added! ♠️ ♥️ ♣️ ♦️ 
+
+Simple to use poker keyboard will improve your hand recording skills and keep them consistent so you can study poker hand combinations and no limit poker situations when you are away from the poker table!
+
+** Please Be Aware this is a Keyboard, not an app. You must activate in settings after downloading! (directions below) **
+
+Live Poker Players do not have the option to use poker hand tracking software like HUD (Heads Up Display) or Poker Tracker to record hands at the poker table. This app can help you write down hands for game theory study later, off the table using GTO solvers and Poker Stove.
 
 Use it for:
 
-Group texting hand histories
-Keeping detailed notes on your opponents
-Coaching other players
-Keeping organized and consistent notes to improve your game and your win rate
-Perfect for texas holdem tournaments or live poker cash games! If you play texas holdem poker for money, you need this keyboard
+📲 Texting hand histories to your poker study group
+✍️ Keeping detailed notes on poker villains
+📈 Hand analysis game theory for poker coaching
+💰 Studying helps you win at poker!
 
-👉How to set up Keyboard :
+Perfect for texas holdem tournaments or live poker cash games!
+If you play texas holdem poker for money, you need this poker keyboard for Android. One of the best poker study tools for mobile!
 
-Download and install the app
-Go to Settings on your device ⚙️
-Navigate to System --> Language and input --> Keyboards (or search 'keyboard' in Settings search bar)
-Activate Poker Keyboard
-Open the app you wish to record the hand in (text message, What's App, etc.)
-Click on the little keyboard icon (bottom right)
-Toggle default keyboard to Poker Keyboard (English US)
-See Screenshots for help with this ☝️
+👉How to set up Poker Hand History Keyboard :
+
+1. Download and install
+2. Go to Settings on your device ⚙️
+3. Navigate to System --> Language and input --> Keyboards (or search 'keyboard' in Settings search bar)
+4. Activate Poker Keyboard by clicking the toggle switch
+5. Open the app you wish to record the hand in (text message, What's App, etc.)
+6. Click on the little keyboard icon (bottom right), OR hold space bar
+7. Toggle default keyboard to Poker Keyboard (English US)
+
+☝️ ☝️ ☝️ See Screenshots for help, or contact support at whalestacks@gmail.com 
 
 Plugging leaks is essential to improving your poker game !!
 
-You can jot down quick hands for later review with a free notepad, or even just send yourself an email with the hand history in the message. This poker pro keyboard will help you note the stacks, hands , positions and all relevant information from your poker hands throughout the session.
+Now you can jot down crazy poker hands for later review with any note app, or even just send yourself an email with the hand history in the message. This poker keyboard will help you note the stacks, hands , positions and all relevant information from your poker hands throughout the session.
