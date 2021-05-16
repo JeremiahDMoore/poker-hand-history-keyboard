@@ -1,4 +1,8 @@
 # poker-hand-history-keyboard
+
+Landing Page: https://jeremiahdmoore.github.io/poker-hand-history-keyboard/index.html
+Privacy Policy: https://jeremiahdmoore.github.io/poker-hand-history-keyboard/privacy.html
+
 ♠️ The Original Poker Keyboard for Android! ⌨️
 
 This poker keyboard is designed for live poker players to record hands at the table to study poker, and win at poker! A useful tool for No Limit Texas Holdem hand analysis. Write down your live hand history for later review. 
