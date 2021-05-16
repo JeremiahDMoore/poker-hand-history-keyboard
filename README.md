@@ -1,6 +1,6 @@
 # poker-hand-history-keyboard
 
-Landing Page: https://jeremiahdmoore.github.io/poker-hand-history-keyboard/index.html
+Landing Page: https://jeremiahdmoore.github.io/poker-hand-history-keyboard/index.html <br>
 Privacy Policy: https://jeremiahdmoore.github.io/poker-hand-history-keyboard/privacy.html
 
 ♠️ The Original Poker Keyboard for Android! ⌨️
