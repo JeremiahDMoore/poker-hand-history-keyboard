@@ -1,7 +1,7 @@
-App name: MTT Trainer
+App name: Poker Hand History Keyboard
 Built with: Android Studio
 System: Android [target API: 30(Android 11.0); min API: 21(Lollipop 5.0)
-Release: September 2020 by Jeremiah Moore 
+Original Release Date: July 25, 2019 by Jeremiah Moore 
 
 Landing Page: https://jeremiahdmoore.github.io/poker-hand-history-keyboard/index.html
 
