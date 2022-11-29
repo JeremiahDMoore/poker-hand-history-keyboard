@@ -1,9 +1,11 @@
-# poker-hand-history-keyboard
+# Poker Hand History Keyboard for Android
+### available on Google Play
 
 Landing Page: https://jeremiahdmoore.github.io/poker-hand-history-keyboard/index.html <br>
-Privacy Policy: https://jeremiahdmoore.github.io/poker-hand-history-keyboard/privacy.html
+Privacy Policy: https://jeremiahdmoore.github.io/poker-hand-history-keyboard/privacy.html <br>
+Google Play: https://play.google.com/store/apps/details?id=vegas.acesup.www.pokerkeyboard&hl=en_US&gl=US
 
-♠️ The Original Poker Keyboard for Android! ⌨️
+## ♠️ The Original Poker Keyboard for Android! ⌨️
 
 This poker keyboard is designed for live poker players to record hands at the table to study poker, and win at poker! A useful tool for No Limit Texas Holdem hand analysis. Write down your live hand history for later review. 
 Developed and tested by professional poker players in Las Vegas. 
@@ -16,7 +18,7 @@ Simple to use poker keyboard will improve your hand recording skills and keep th
 
 Live Poker Players do not have the option to use poker hand tracking software like HUD (Heads Up Display) or Poker Tracker to record hands at the poker table. This app can help you write down hands for game theory study later, off the table using GTO solvers and Poker Stove.
 
-Use it for:
+## Use it for:
 
 📲 Texting hand histories to your poker study group
 ✍️ Keeping detailed notes on poker villains
@@ -26,9 +28,9 @@ Use it for:
 Perfect for texas holdem tournaments or live poker cash games!
 If you play texas holdem poker for money, you need this poker keyboard for Android. One of the best poker study tools for mobile!
 
-👉How to set up Poker Hand History Keyboard :
+## 👉How to set up Poker Hand History Keyboard :
 
-1. Download and install
+1. Download and install (Google Play link: https://play.google.com/store/apps/details?id=vegas.acesup.www.pokerkeyboard&hl=en_US&gl=US)
 2. Go to Settings on your device ⚙️
 3. Navigate to System --> Language and input --> Keyboards (or search 'keyboard' in Settings search bar)
 4. Activate Poker Keyboard by clicking the toggle switch
